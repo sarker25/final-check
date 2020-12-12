@@ -6,3 +6,8 @@
 body{
     background-color: skyblue;
 }
+.topHeader{
+    height: 100px;
+    width: 100vw;
+    border-right-color: paleturquoise;
+}
